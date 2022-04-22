@@ -12,7 +12,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 Pillow==6.2.1
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dotenv==0.10.3
 reportlab==3.5.32
 six==1.13.0
